@@ -57,5 +57,4 @@ Los endpoints disponibles son:
 
 * /currency/rates/?fromDay=01-07-2018&toDay=15-07-2018 => Listado de ratios de divisas para un periodo de tiempo 
 * /currency/exchange/EUR/GBP/10/ => Calcula una cantidad de una divida en otro 'BASE/TARGET/amount'
-* /currency/time-weighted-rate/EUR/USD/1000/?fromDay=26-07-2018 => Devuelve el twrr para una cantidad invertida en una 
-divisa desde el día especificado hasta hoy.
+* /currency/time-weighted-rate/EUR/USD/1000/?fromDay=26-07-2018 => Devuelve el twrr para una cantidad invertida en una divisa desde el día especificado hasta hoy.
