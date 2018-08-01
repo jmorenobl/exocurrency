@@ -1,0 +1,23 @@
+-r base.txt
+
+psycopg2-binary==2.7.4
+
+# Testing
+# ------------------------------------------------------------------------------
+pytest==3.6.0
+pytest-sugar==0.9.1
+
+# Code quality
+# ------------------------------------------------------------------------------
+flake8==3.5.0
+coverage==4.5.1
+
+# Django
+# ------------------------------------------------------------------------------
+factory-boy==2.11.1
+django-test-plus==1.0.22
+
+django-debug-toolbar==1.9.1
+django-extensions==2.0.7
+django-coverage-plugin==1.5.0
+pytest-django==3.2.1
